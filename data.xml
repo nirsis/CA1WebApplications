@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<store>
+
+<game category="mmorpg">
+<title>World of Warcraft: Shadowlands</title>
+<publisher>Blizzard</publisher>
+<year>2020</year>
+<price>39.99</price>
+</game>
+
+<game category="mmorpg">
+<title>Final Fantasy XIV Online</title>
+<publisher>Square Enix</publisher>
+<year>2010</year>
+<price>13.99</price>
+</game>
+
+<game category="shooter">
+<title>Counter Strike: Global Offensive</title>
+<publisher>Valve</publisher>
+<year>2012</year>
+<price>9.99</price>
+</game>
+
+<game category="shooter">
+<title>Call of Duty: Black Ops Cold War</title>
+<publisher>Activision</publisher>
+<year>2020</year>
+<price>59.99</price>
+</game>
+
+<game category="rts">
+<title>Starcraft 2: Legacy of the Void</title>
+<publisher>Blizzard</publisher>
+<year>2015</year>
+<price>14.99</price>
+</game>
+
+<game category="rts">
+<title>Age of Empires II: Definitive Edition</title>
+<publisher>Xbox Game Studios</publisher>
+<year>2019</year>
+<price>14.99</price>
+</game>
+
+  
+
+</store>
